@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8baddae-43e9-4f14-9a4e-8d92c6f0b577" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../bai7/bai_tap_1/bai1/diem_trung_binh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/bai_tap_1/bai2/chuyen_doi_nhiet_do.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/bai_tap_1/bai3/dien_tich_htron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/bai_tap_1/bai4/chu_vi_htron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/thuchanh1/bai1/th_khai_bao_bien_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/thuchanh1/bai2/th_khai_bao_bien_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/thuchanh1/bai3/th_khai_bao_bien_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai7/thuchanh2/bai1/th_toan_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuc_hanh_1/ktr_nam_nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuc_hanh_2/bt_thuc_hanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuc_hanh_3/th_if_else_if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuc_hanh_4/th_cau_truc_sc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../thuc_hanh_4/th_cau_truc_sc_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th_3_ngoi_bai_1.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2XyciZAPv69Gcn9U6cRjps1Rbd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8baddae-43e9-4f14-9a4e-8d92c6f0b577" name="Changes" comment="" />
+      <created>1699604887520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699604887520</updated>
+      <workItem from="1699604888524" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
